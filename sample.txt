@@ -1,3 +1,4 @@
 This is the initial content of sample.txt.
 Bug fixed: Updated the content in sample.txt to fix an error.
 Feature Note: This file will be updated soon with new features.
+Simulate a branch: Made a small change in new branch.
