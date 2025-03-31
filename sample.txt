@@ -1,1 +1,2 @@
 This is the initial content of sample.txt.
+Bug fixed: Updated the content in sample.txt to fix an error.
